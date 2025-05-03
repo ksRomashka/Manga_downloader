@@ -264,6 +264,6 @@ class MangaDown_group:
                 time.sleep(0.2)
 
 if __name__ == "__main__":
-    print("Введите адрес манги")
+    print("https://mangalib.me/ru/manga/6950--banana-fish")
     url = input()
     domain_definition(url)
