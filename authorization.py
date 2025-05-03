@@ -15,6 +15,6 @@ def authorization(url):
     driver.close()
 
 if __name__ == "__main__":
-    print("Введите адрес манги")
+    print("https://mangalib.me/ru/manga/6950--banana-fish")
     url = input()
     authorization(url)
